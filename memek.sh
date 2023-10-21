@@ -114,7 +114,7 @@ echo -e "$green                                                      $NC"
 echo -e "$green                ____ ____ _  _$NC" 
 echo -e "$green                [__  [__  |__|$NC"
 echo -e "$green                ___] ___] |  |$NC"
-echo -e "$green                                                                                                                                   
+echo -e "$green                $NC"                                                                                                                          
 echo -e "$green♥ TERIMAKSIH TELAH MEMAKAI SCRIPT RADENRIZKI ♥$NC"
 sleep 2
 echo -ne "[ ${green}INFO${NC} ] Check permission : "
