@@ -222,7 +222,7 @@ echo -e " ${z}╰═════════════════════
 #echo -e " ${z}│ ${NC}${z} WS-EPRO$NC : $status_ws_epro" "    ${z} DROPBEAR$NC : $status_dropbear" "     ${z} HAPROXY$NC : $status_haproxy   $NC${z}│$NC" 
 #echo -e " ${z}╰════════════════╯╰══════════════════╯╰════════════════════╯${NC}"
 echo -e " ${z}╭══════════════════════════════════════════════════════════╮${NC}"
-echo -e " ${z}│$NC${z} DEVELOPER$NC        ${z}=$NC RADEN RIZKI DEV"
+echo -e " ${z}│$NC${z} DEVELOPER$NC   ${z}=$NC RADEN RIZKI DEV"
 echo -e " ${z}│$NC${z} CLIENT NAME$NC ${z}=$NC $username [$sts]"
 echo -e " ${z}│$NC${z} EXPIRED $NC    ${z}=$NC $exp / $certifacate Days$NC "
 echo -e " ${z}╰══════════════════════════════════════════════════════════╯${NC}"
