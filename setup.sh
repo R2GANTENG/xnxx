@@ -39,12 +39,12 @@ clear;clear;clear
  ───│    $Green┌─┐┬ ┬┌┬┐┌─┐┌─┐┌─┐┬─┐┬┌─┐┌┬┐  ┬  ┬┌┬┐┌─┐$NC   │───
  ───│    $Green├─┤│ │ │ │ │└─┐│  ├┬┘│├─┘ │   │  │ │ ├┤ $NC   │───
  ───│    $Green┴ ┴└─┘ ┴ └─┘└─┘└─┘┴└─┴┴   ┴   ┴─┘┴ ┴ └─┘$NC   │───
-    │    ${YELLOW}Copyright${FONT} (C)$GRAY https://github.com/R2GANTENG$NC   │
+    │    ${YELLOW}Copyright${FONT} (C)$Green https://github.com/R2GANTENG$NC │
     └───────────────────────────────────────────────┘
-         ${RED} AUTOSCRIPT PREMIUM CUAGSS${FONT}    
-           ${RED} SCRIPT MOD BY RADEN RIZKI${FONT}
-${RED}SELAMAT MENIKMATI PENGINSTALLANNYAt${FONT}
-        "
+${YELLOW}   AUTOSCRIPT PREMIUM CUAGSS${FONT}   
+${YELLOW}   SCRIPT MOD BY RADEN RIZKI${FONT}
+${YELLOW}SELAMAT MENIKMATI PENGINSTALLANNYA${FONT}
+        
 sleep 5
 ###### IZIN SC 
 
@@ -287,23 +287,11 @@ clear
 function pasang_domain() {
 echo -e ""
 clear    
-echo -e "
-    ┌───────────────────────────────────────────────┐
- ───│                                               │───
- ───│    $Green┌─┐┬ ┬┌┬┐┌─┐┌─┐┌─┐┬─┐┬┌─┐┌┬┐  ┬  ┬┌┬┐┌─┐$NC   │───
- ───│    $Green├─┤│ │ │ │ │└─┐│  ├┬┘│├─┘ │   │  │ │ ├┤ $NC   │───
- ───│    $Green┴ ┴└─┘ ┴ └─┘└─┘└─┘┴└─┴┴   ┴   ┴─┘┴ ┴ └─┘$NC   │───
-    │    ${YELLOW}Copyright${FONT} (C)$GRAY https://github.com/R2GANTENG$NC   │
-    └───────────────────────────────────────────────┘
-         ${RED} AUTOSCRIPT PREMIUM CUAGSS${FONT}    
-           ${RED} SCRIPT MOD BY RADEN RIZKI${FONT}
-${RED}SELAMAT MENIKMATI PENGINSTALLANNYAt${FONT}
-        "
-    echo -e "━━━━━━━━━━━━━━"
+    echo -e " .━━━━━━━━━━━━━━."
 echo -e "   |\e[1;32mSILAHKAN MASUKAN DOMAIN \e[0m|"
-echo -e "    ━━━━━━━━━━━━━━'"
+echo -e "    .━━━━━━━━━━━━━━."
 echo -e "     \e[1;32m1)\e[0m Domain Sendiri"
-echo -e "   ━━━━━━━━━━━━━━"
+echo -e "   .━━━━━━━━━━━━━━."
 read -p "   MASUKAN DOMAIN KETIK 1: " host
 echo ""
 if [[ $host == "1" ]]; then
